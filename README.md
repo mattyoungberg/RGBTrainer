@@ -6,7 +6,7 @@ Train yourself to instinctively know the shades expressed by rgb() functions!
 
 ![RGB Trainer](resources/rgbtrainer.png)
 
-Play the game [here.](https://mattyoungberg.github.io/RGBTrainer/src/rgbTrainer.html)
+Play the game [here.](https://mattyoungberg.github.io/RGBTrainer/)
 
 ---
 
